@@ -36,7 +36,8 @@ public class AccountParamTest {
                 {"", false},
                 {"Timati", false},
                 {"James Bond", true},
-                {"Erich-Paul Remark", true}
+                {"Erich-Paul Remark", true},
+                {null, false}
         };
     }
 
